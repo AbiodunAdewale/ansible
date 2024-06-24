@@ -1,2 +1,6 @@
+
+[pdns_servers]
 172.16.3.18
+
+[veeam_server]
 172.16.3.48
